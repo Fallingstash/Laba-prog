@@ -1,0 +1,2 @@
+# Laba-prog
+my lab
